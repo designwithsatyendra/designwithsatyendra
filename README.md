@@ -1,4 +1,4 @@
-![logo](https://github.com/designwithsatyendra/designwithsatyendra/blob/main/Green%20White%20Modern%20Tutorial%20YouTube%20Thumbnail.jpg)
+![logo](https://www.canva.com/design/DAFVq8tFxdU/Y8SGb3dADw2GgWwqigQdbQ/edit?utm_content=DAFVq8tFxdU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Satyendra Singh</h1>
 <h3 align="center">I am a full stack developer Youtuber from India</h3>
 
