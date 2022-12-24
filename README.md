@@ -1,4 +1,4 @@
-![logo](https://github.com/designwithsatyendra/designwithsatyendra/blob/main/satyendraimg.png)
+![logo](https://cdn.pixabay.com/photo/2022/12/14/13/43/snow-7655439_1280.png)
 <h1 align="center">Hi 👋, I'm Satyendra Singh</h1>
 <h3 align="center">I am a full stack developer Youtuber from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=designwithsatyendra&label=Profile%20views&color=0e75b6&style=flat" alt="designwithsatyendra" /> </p>
