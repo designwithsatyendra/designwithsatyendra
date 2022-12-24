@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFVq8tFxdU/Y8SGb3dADw2GgWwqigQdbQ/edit?utm_content=DAFVq8tFxdU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/designwithsatyendra/designwithsatyendra/blob/main/satyendraimg.png)
 <h1 align="center">Hi 👋, I'm Satyendra Singh</h1>
 <h3 align="center">I am a full stack developer Youtuber from India</h3>
 
